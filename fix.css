@@ -1,0 +1,19 @@
+/* .bg-color {
+    background-color : ;
+
+
+}
+*/
+
+.card {
+    margin: px;
+}
+
+.row {
+    margin-left: 20vw;
+}
+
+.row {
+    display: flex;
+    /* flex-wrap: wrap; */
+}
